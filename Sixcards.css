@@ -1,0 +1,46 @@
+.button {
+    height: 50px;
+    width: 140px;
+    background-color: #0993f6e1;
+    border-radius: 30px;
+    color: white;
+    border: none;
+
+}
+
+.Img{
+    height: 60PX;
+    width: 60PX;
+}
+
+.card {
+    height: 250PX;
+    width: 450px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20PX;
+    margin: 10px 25px 5px 0px;
+
+}
+
+/* .card:hover {
+    background-color: rgb(37, 184, 228);
+} */
+
+
+.displayflex{
+
+align-items: center;
+justify-content: center;
+}
+.row{
+
+flex-direction: row;
+}
+.flex{
+display: flex;
+}
+.column{
+
+flex-direction: column;
+}

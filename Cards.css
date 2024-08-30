@@ -1,0 +1,44 @@
+.img{
+    height: 40px;
+    width: 50px;
+    margin-left:10px;
+    padding: 0px 5px 0px 0px ;
+}
+.card{
+    height: 60px;
+    width: 220px;;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border-radius: 10px ;
+    margin: 20px 10px 0px;
+    padding-right: 5px;
+  }
+.card:hover{
+    background-color: rgb(182, 127, 173);
+}
+description:hover{
+background-color: red;
+}
+p:hover{
+    color: green;
+}
+
+
+.fontsize{
+font-size: 20px;
+    font-weight: 400;
+    margin-left:0px;
+    margin-bottom: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 0px 10px 0px;
+}
+
+
+.display{
+    display: flex;
+    align-items: center;
+     
+}
+.flex{
+    flex-direction: row;
+}

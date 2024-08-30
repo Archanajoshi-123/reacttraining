@@ -1,0 +1,53 @@
+.login{
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    color:white;
+    margin-Top:10px;
+
+   
+}
+.font{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imgsize{
+    height:70px;
+    width:70px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.dflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card3{
+    height:350PX;
+    width: 300px;
+    background-color: rgb(226, 223, 223);
+    padding: 20PX;
+    margin: 10px 25px 5px 0px;
+  
+}
+.card4{
+    height: 600px;
+    width: 600px;
+    background-color: rgb(9, 62, 112);
+}
+.textboxs{
+    height:40px;
+    width:250px;
+}
+.b{
+    background-color:rgb(9, 62, 112);
+   color: white;
+ font-size: 15px;
+}
+.i{
+    height: 5px;
+    background-color: blue;
+    width:5px;
+    position: relative;
+}
+
+

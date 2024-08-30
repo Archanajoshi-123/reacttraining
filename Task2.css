@@ -1,0 +1,39 @@
+.icons{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px !important;
+    margin-bottom: 10px;
+}
+.dir{
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    height: 45px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 10px 15px;
+    background-color:#0071dc;
+    color:#fff;
+    margin-top: 30px;
+}
+.t1{
+    color: rgb(0, 113, 220);
+    font-size: 20px;
+    margin-top: 120px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.t2{
+    font-weight: 600;
+    margin-top: 0px;
+}
+.m{
+    margin-right: 200px;
+}
+.f{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

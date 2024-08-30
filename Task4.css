@@ -1,0 +1,21 @@
+.img{
+    height:250px;
+    width:350px;
+}
+.card{
+    height: 550px;
+    width: 350px;
+    border: 0cap;
+    background-color: aliceblue;
+    margin-left: 30px;
+    margin-top: 60px;
+
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+

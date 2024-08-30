@@ -1,0 +1,91 @@
+.text{
+    font-size: 20px;
+    color: #0071dc;
+    margin-left: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+    margin-top: 40px;
+
+}
+.texts{
+    color: black;
+    font-size: 15px;
+}
+
+.text1{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 5px;
+    margin-left: 20px;
+    margin-top:12px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.text2{
+    font-size: 14px;
+    color: dimgray;
+    margin-top: 5px;
+    margin-left: 20px;
+
+}
+.icon{
+ 
+    color: #0071dc;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.flexrow{
+    display:flex;
+    flex-Direction:row;
+}
+ .cardss {    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    border: gray;
+    border-radius: 2px;
+    height: 400PX;
+    width: 750px;
+    border-radius: 10px;
+    background-color:rgb(247, 244, 244);
+    padding: 20PX;
+    margin: 40px 0px 5px 0px;
+     }
+
+
+.textbox{
+    width:310%;
+    font-size: 16px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding: 16px;
+    margin-top: 10px;
+   
+}
+   
+.submit{
+    background-color: #0b46bb;
+    color: #fff;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+}
+.bgcard{
+    width: 100%;
+    height:500px;
+    background-color: rgb(236, 230, 230);
+    
+}
